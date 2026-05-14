@@ -56,12 +56,13 @@ The Salary Analysis Dashboard explores deeper, granular correlations, tracing in
 •	Average of Salary by Experience Years (Summary Card): Acts as a central baseline anchor displaying a global average salary of 173.18K alongside an rising visual trend vector.
 •	Count of Company Size by Job Title, Experience, and Salary (Scatter Plot Matrix): A dense cluster mapping individual salaries from 0 to 20 years of experience. The plot highlights a definitive concentration ceiling where the vast majority of workforce coordinates rest under the 0.3M (300K) threshold.
 •	Central Filtering Slicers: A dual control panel containing an interactive dual-node Salary Range Slider (filtering values from 31,867 to 333,046) and a sequential vertical checklist for tracking specific Experience Years (0 to 9+).
+
 7. Key Findings
 •	Insight 1: Salary values vary significantly across roles, with specialized technical tracks like AI Engineering commanding vastly superior funding compared to standard analytical tracks.
 •	Insight 2: Certain job categories appear more frequently and maintain stable talent pools, suggesting high industry demand and mature recruitment pipelines.
 •	Insight 3: Correlation analysis reveals that while cumulative salary spend scales predictably with experience years, individual salary distribution contains high variance within the same experience brackets.
 •	Insight 4: The highly uniform distribution across education tiers and industry sectors indicates uniform sampling or synthetic properties within the source dataset.
-•	
+
 8. Business Recommendations
 •	Use salary analysis for market-accurate compensation benchmarking during hiring.
 •	Focus recruitment and retention efforts on high-demand categories like AI and Machine Learning.
