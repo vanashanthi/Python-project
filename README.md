@@ -42,8 +42,11 @@ The Overview Dashboard establishes the baseline scale of the organization, break
 
  
 •	KPI Metrics Cards: Displays structural operational volume including a 250K total corporate record count, a 36bn global cumulative salary spend, and a 333K peak salary ceiling.
+
 •	Sum of Salary by Industry (Horizontal Bar Chart): Tracks total spending allocations across core economic sectors. The visual reveals a perfectly uniform distribution near 4bn per sector across Finance, Consulting, Media, Manufacturing, Education, Technology, Healthcare, and Telecom.
+
 •	Sum of Experience Years by Education Level (Pie Chart): Breaks down workforce tenure volume by academic background. It shows an almost exact, equal split of roughly 20% per tier across five segments: Master (20.08%), High School (20.03%), Bachelor (20.01%), Diploma (19.94%), and PhD (19.94%).
+
 •	Industry Segment Slicer: Located on the left side, this interactive filter menu allows users to filter the entire view by single or multiple industries like Consulting, Education, Finance, and Government.
 
 Page 2: Salary Analysis Dashboard
@@ -52,9 +55,13 @@ The Salary Analysis Dashboard explores deeper, granular correlations, tracing in
  <img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/f0c2cba1-bd77-4629-afc6-dcd899740011" />
 
 •	Salary Analysis by Job Title (Vertical Bar Chart): Compares cumulative salary budgets by roles. Specialized technical tracks lead the chart, with AI Engineers and Machine Learning Engineers capturing peak spending, while Data Analysts sit at the baseline.
+
 •	Employee Count by Experience (Dual Axis Line Chart): Plots structural financial growth against talent volume. Total cumulative salary spending (dark line) climbs smoothly over experience years, while active employee counts (blue line) show sharp volatility, spiking heavily at 13 years and 18 years of tenure.
+
 •	Average of Salary by Experience Years (Summary Card): Acts as a central baseline anchor displaying a global average salary of 173.18K alongside an rising visual trend vector.
+
 •	Count of Company Size by Job Title, Experience, and Salary (Scatter Plot Matrix): A dense cluster mapping individual salaries from 0 to 20 years of experience. The plot highlights a definitive concentration ceiling where the vast majority of workforce coordinates rest under the 0.3M (300K) threshold.
+
 •	Central Filtering Slicers: A dual control panel containing an interactive dual-node Salary Range Slider (filtering values from 31,867 to 333,046) and a sequential vertical checklist for tracking specific Experience Years (0 to 9+).
 
 7. Key Findings
