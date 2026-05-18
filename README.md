@@ -38,7 +38,8 @@ The dataset contains job and salary-related information used for prediction and 
 Page 1: Overview Dashboard
 The Overview Dashboard establishes the baseline scale of the organization, breaking down broad operational metrics across fields, industries, and overall educational experience distributions.
 
-<img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/df122bd5-3fe0-4332-ac0c-179f56296a33" />
+<img width="949" height="538" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c767165a-55e1-45b6-a627-68812d795595" />
+
 
  
 •	KPI Metrics Cards: Displays structural operational volume including a 250K total corporate record count, a 36bn global cumulative salary spend, and a 333K peak salary ceiling.
@@ -52,7 +53,8 @@ The Overview Dashboard establishes the baseline scale of the organization, break
 Page 2: Salary Analysis Dashboard
 The Salary Analysis Dashboard explores deeper, granular correlations, tracing individual job titles, average pay rates, and dense cross-sections of employee experience against direct salary bands.
 
- <img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/f0c2cba1-bd77-4629-afc6-dcd899740011" />
+<img width="927" height="519" alt="Screenshot_4" src="https://github.com/user-attachments/assets/10b2c365-5620-42ae-a2ce-bc28a27a12b8" />
+
 
 •	Salary Analysis by Job Title (Vertical Bar Chart): Compares cumulative salary budgets by roles. Specialized technical tracks lead the chart, with AI Engineers and Machine Learning Engineers capturing peak spending, while Data Analysts sit at the baseline.
 
